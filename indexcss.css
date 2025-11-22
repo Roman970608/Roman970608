@@ -1,0 +1,38 @@
+html{
+	background-color: #00D950;
+}
+p{
+	font-family: Arial Black;
+	background-color: white;
+	font-size: 40px
+}
+h1{
+	font-family: Arial Black;
+	background-color: white;
+	font-size: 52px
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+.menu {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+    background-color: white;	
+}
+.menu li{
+	display: inline;
+}
+.menu a{
+	text-decoration: none;
+	font-family: Arial Black;
+	padding: 10px, 20px;
+	margin: 20px;
+	color: grey;
+	font-size: 40px;
+}
+
+.menu a:hover{
+	color:black;
+}
