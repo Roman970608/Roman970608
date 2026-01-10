@@ -58,3 +58,24 @@ h3{
 	background-color: white;
 	font-size: 38px;
 }
+.rlly{
+	font-size: 18px;
+	color: silver;
+}
+input{
+	font-family: Arial Black;
+	font-size: 33px;
+	background-color: white;
+}
+header{
+    background-color: white;
+}
+img{
+	width: 256px;
+	height: 128px;
+}
+marquee{
+	background-color: white;
+    font-family: Arial Black;
+	font-size: 33px;
+}
