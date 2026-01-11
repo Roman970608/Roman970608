@@ -73,6 +73,7 @@ header{
 img{
 	width: 256px;
 	height: 128px;
+	border-radius: 7%;
 }
 marquee{
 	background-color: white;
